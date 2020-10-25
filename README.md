@@ -1,3 +1,23 @@
+
+# Download Node.js
+
+Download Lts version of Node.js from https://nodejs.org/en/download/
+
+
+# Download Angular latest
+Download latest Angular by running this script : npm install -g @angular/cli
+
+
+# Download Angular material Library
+
+Download Angular Materials Library by running this script at project level: ng add @angular/material
+
+
+# Download Angular Syncfusion Library
+
+Download Angular Syncfusion Library by running this script at project level: npm install @syncfusion/ej2-angular-charts --save
+
+
 # BudhiApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
@@ -13,6 +33,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
 
 ## Running unit tests
 
